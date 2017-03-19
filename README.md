@@ -1,2 +1,4 @@
-setting up basic node/express application.
+#Simple express app
+
+setting up basic node/express application and run server. 
 
